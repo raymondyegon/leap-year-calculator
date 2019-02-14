@@ -1,0 +1,13 @@
+@media screen and (min-width:480px) {
+  body{
+    background-color: lightblue;
+    color: black;
+  }
+}
+body {
+  margin: 0px;
+  padding-top: 150px;
+  padding-left: 20%;
+  font-style: normal;
+  font-family: monospace;
+}
